@@ -1,0 +1,12 @@
+__pycache__/
+_data/
+.vscode/
+data/
+img_h/
+img_i/
+img_x/
+raw/
+test1_img_i/
+raw/
+examples/
+models/
