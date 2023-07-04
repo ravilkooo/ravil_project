@@ -11,3 +11,8 @@ raw/
 examples/
 models/
 disasters*/
+attached
+attached.png
+Digraph.*
+model.onnx
+output.*
